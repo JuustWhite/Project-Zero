@@ -109,3 +109,4 @@
 - If you don't see the codes above that means it is currently enabled.
 - Enabling the Unknown Command response you have to delete the `unknownCommand: false,` on `index.js` at `line: 47`.
 
+[![Run on Repl.it](https://repl.it/badge/github/Zeroo000/Project-Zero)](https://repl.it/github/Zeroo000/Project-Zero)
